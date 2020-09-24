@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rub>
+<persona>
+<nome>Alessio</nome>
+<cognome>Rossi</cognome>
+<telefono_casa>030326548</telefono_casa>
+<indirizzo_email>alessio@yahoo.it</indirizzo_email>
+</persona>
+<persona>
+<nome>Giada</nome>
+<cognome>Belloni</cognome>
+<telefono_casa>0305787439</telefono_casa>
+<indirizzo_email>alessio@yahoo.it</indirizzo_email>
+</persona>
+<persona>
+<nome>Cristina</nome>
+<cognome>Olivini</cognome>
+<telefono_casa>0303245879</telefono_casa>
+<indirizzo_email>alessio@yahoo.it</indirizzo_email>
+</persona>
+<persona>
+<nome>Diego</nome>
+<cognome>Bruschi</cognome>
+<telefono_casa>030326548</telefono_casa>
+<indirizzo_email>alessio@yahoo.it</indirizzo_email>
+</persona>
+</rub>
